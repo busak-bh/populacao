@@ -1,0 +1,16 @@
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\bin\Debug\net5.0\populacao.exe
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\bin\Debug\net5.0\populacao.deps.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\bin\Debug\net5.0\populacao.runtimeconfig.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\bin\Debug\net5.0\populacao.runtimeconfig.dev.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\bin\Debug\net5.0\populacao.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\bin\Debug\net5.0\ref\populacao.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\bin\Debug\net5.0\populacao.pdb
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\populacao.csprojAssemblyReference.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\populacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\populacao.AssemblyInfoInputs.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\populacao.AssemblyInfo.cs
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\populacao.csproj.CoreCompileInputs.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\populacao.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\ref\populacao.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\populacao.pdb
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\populacao\obj\Debug\net5.0\populacao.genruntimeconfig.cache
